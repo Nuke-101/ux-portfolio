@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ux-portfolio/static/css/main.5c6f2279.css",
+    "main.js": "/ux-portfolio/static/js/main.e8547208.js",
+    "static/js/787.5557ade6.chunk.js": "/ux-portfolio/static/js/787.5557ade6.chunk.js",
+    "static/media/Gilroy-Regular.ttf": "/ux-portfolio/static/media/Gilroy-Regular.fa652e766b6a85a1f9cb.ttf",
+    "index.html": "/ux-portfolio/index.html",
+    "main.5c6f2279.css.map": "/ux-portfolio/static/css/main.5c6f2279.css.map",
+    "main.e8547208.js.map": "/ux-portfolio/static/js/main.e8547208.js.map",
+    "787.5557ade6.chunk.js.map": "/ux-portfolio/static/js/787.5557ade6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c6f2279.css",
+    "static/js/main.e8547208.js"
+  ]
+}
