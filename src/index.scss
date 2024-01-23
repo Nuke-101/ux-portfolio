@@ -1,0 +1,22 @@
+$primary-color: #fcfeff;
+$black: #000;
+$white: #fff;
+$font-color: #0e1b25;
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Gilroy';
+  color: $font-color;
+  background: $primary-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
